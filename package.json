@@ -1,0 +1,6 @@
+{
+  "name": "agent-pira-calculadora-de-interes-compues-mornnl1j",
+  "version": "1.0.0",
+  "description": "Proyecto de Pira [Gen11]: calculadora de interes compuesto para inversiones a largo plazo",
+  "main": "index.js"
+}
